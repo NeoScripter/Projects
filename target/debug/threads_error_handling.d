@@ -1,0 +1,1 @@
+C:\Users\Ilya\USERPROFILE1\projects\practicing\target\debug\threads_error_handling.exe: C:\Users\Ilya\USERPROFILE1\projects\practicing\bin\threads_error_handling\main.rs C:\Users\Ilya\USERPROFILE1\projects\practicing\src\lib.rs

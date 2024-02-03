@@ -1,0 +1,1 @@
+C:\Users\Ilya\USERPROFILE1\projects\practicing\target\debug\file_downloader.exe: C:\Users\Ilya\USERPROFILE1\projects\practicing\bin\file_downloader\main.rs C:\Users\Ilya\USERPROFILE1\projects\practicing\src\lib.rs

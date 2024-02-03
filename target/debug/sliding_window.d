@@ -1,0 +1,1 @@
+C:\Users\Ilya\USERPROFILE1\projects\practicing\target\debug\sliding_window.exe: C:\Users\Ilya\USERPROFILE1\projects\practicing\bin\sliding_window\main.rs C:\Users\Ilya\USERPROFILE1\projects\practicing\src\lib.rs

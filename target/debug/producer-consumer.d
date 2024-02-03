@@ -1,0 +1,1 @@
+C:\Users\Ilya\USERPROFILE1\projects\practicing\target\debug\producer-consumer.exe: C:\Users\Ilya\USERPROFILE1\projects\practicing\bin\producer-consumer\main.rs C:\Users\Ilya\USERPROFILE1\projects\practicing\src\lib.rs

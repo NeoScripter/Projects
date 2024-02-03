@@ -1,0 +1,1 @@
+C:\Users\Ilya\USERPROFILE1\projects\practicing\target\debug\parallel_map.exe: C:\Users\Ilya\USERPROFILE1\projects\practicing\bin\parallel_map\main.rs C:\Users\Ilya\USERPROFILE1\projects\practicing\src\lib.rs

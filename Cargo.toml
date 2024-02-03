@@ -1,0 +1,104 @@
+[package]
+name = "practicing"
+version = "0.1.0"
+edition = "2021"
+default-run = "math_args"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.79"
+color-eyre = "0.6.2"
+rand = "0.8.5"
+reqwest = { version = "0.11.23", features = ["stream"] }
+serde = { version = "1.0.195", features = ["derive"] }
+serde_json = "1.0.111"
+tokio = { version = "1.35.1", features = ["full"] }
+
+[[bin]]
+name = "file_reader"
+path = "bin/file_reader/main.rs"
+
+[[bin]]
+name = "config_loader"
+path = "bin/config_loader/main.rs"
+
+[[bin]]
+name = "query_executor"
+path = "bin/query_executor/main.rs"
+
+[[bin]]
+name = "metadata_extractor"
+path = "bin/metadata_extractor/main.rs"
+
+[[bin]]
+name = "serializer"
+path = "bin/serializer/main.rs"
+
+[[bin]]
+name = "network_rq_sim"
+path = "bin/network_rq_sim/main.rs"
+
+[[bin]]
+name = "user_input_validation"
+path = "bin/user_input_validation/main.rs"
+
+[[bin]]
+name = "command_executor"
+path = "bin/command_executor/main.rs"
+
+[[bin]]
+name = "async_task_executor"
+path = "bin/async_task_executor/main.rs"
+
+[[bin]]
+name = "math_operations"
+path = "bin/math_operations/main.rs"
+
+[[bin]]
+name = "math_args"
+path = "bin/math_args/main.rs"
+
+[[bin]]
+name = "qcksort_multi_thread"
+path = "bin/qcksort_multi_thread/main.rs"
+
+[[bin]]
+name = "qcksort_one_thread"
+path = "bin/qcksort_one_thread/main.rs"
+
+[[bin]]
+name = "logging_system"
+path = "bin/logging_system/main.rs"
+
+[[bin]]
+name = "par_letter_frequency"
+path = "bin/par_letter_frequency/main.rs"
+
+[[bin]]
+name = "using_mutex"
+path = "bin/using_mutex/main.rs"
+
+[[bin]]
+name = "producer-consumer"
+path = "bin/producer-consumer/main.rs"
+
+[[bin]]
+name = "parallel_map"
+path = "bin/parallel_map/main.rs"
+
+[[bin]]
+name = "threads_error_handling"
+path = "bin/threads_error_handling/main.rs"
+
+[[bin]]
+name = "sliding_window"
+path = "bin/sliding_window/main.rs"
+
+[[bin]]
+name = "generic_tree"
+path = "bin/generic_tree/main.rs"
+
+[[bin]]
+name = "catalan_num"
+path = "bin/catalan_num/main.rs"

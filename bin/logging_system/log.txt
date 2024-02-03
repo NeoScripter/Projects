@@ -1,0 +1,5 @@
+Log message from thread 0
+Log message from thread 2
+Log message from thread 3
+Log message from thread 1
+Log message from thread 4
